@@ -42,3 +42,5 @@ The steps followed were :
 
 Note : The generative models are not very accurate and distinct because it has been trained on a relatively simple network.
 Better lot of images can be obtained by using ```DCGANs```
+
+A Pytorch implementation has also been added for GAN
